@@ -1,1 +1,1 @@
-# ShopRestAPI
+# node-rest-api-practice
